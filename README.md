@@ -113,6 +113,6 @@ Start the server
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksingh5219/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhthakur11/)
 #### The Deployed version of LetsChat.
 [LetsChat](https://letschat-7345c.web.app/)
